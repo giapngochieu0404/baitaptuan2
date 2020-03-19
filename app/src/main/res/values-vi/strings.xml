@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="hello" >hello world</string>
+    <string name="test" >Day la tieng viet</string>
+</resources>
